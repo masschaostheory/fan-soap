@@ -9,3 +9,5 @@ Spec courtesy of https://www.w3.org/TR/wsdl.html
 Build and Test via Jenkins (https://www.jenkins.io/)
 
 Documentation Coming...
+
+Now signing commits with GPG!
